@@ -1,0 +1,5 @@
+[ 2024-11-05 10:10:27,756 ] 28 root - INFO - read the datset
+[ 2024-11-05 10:10:27,821 ] 31 root - INFO - create a directory
+[ 2024-11-05 10:10:27,843 ] 36 root - INFO - train and test data split is intiated
+[ 2024-11-05 10:10:27,848 ] 39 root - INFO - passed the train and test data to the path
+[ 2024-11-05 10:10:27,870 ] 43 root - INFO - return the train and test data for data transformation process
